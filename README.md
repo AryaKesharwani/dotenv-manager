@@ -25,3 +25,5 @@ dotenv-manager/
 └── README.md
 
 ```
+
+- [ ] have to make it compatible for both sql and nosql
